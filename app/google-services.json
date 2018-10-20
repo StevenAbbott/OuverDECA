@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1044736377070",
+    "firebase_url": "https://ouver-2053c.firebaseio.com",
+    "project_id": "ouver-2053c",
+    "storage_bucket": "ouver-2053c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044736377070:android:35c0c58b5d620831",
+        "android_client_info": {
+          "package_name": "com.example.sbabb.ouver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044736377070-icfd02fnnjth9ssiagf76f1ptii6i7jd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sbabb.ouver",
+            "certificate_hash": "66c98d3a8511f41e62c2e129fcd304cd4d136283"
+          }
+        },
+        {
+          "client_id": "1044736377070-rpacf6183akm0c5ruqbkdk0u5rgrvpsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi1u4YFtuuXlXE-TZkpTwhNizUPwgFhOM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044736377070-rpacf6183akm0c5ruqbkdk0u5rgrvpsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

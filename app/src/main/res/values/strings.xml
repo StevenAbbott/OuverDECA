@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ouver</string>
+    <string name="existing_user_greeting">Welcome back %s!</string>
+    <string name="new_user_greeting">Welcome to Ouver! We\'re glad too see you.</string>
+    <string name="payment_info_title">Payment Info</string>
+    <string name="payment_info_neg">Maybe Not</string>
+    <string name="confirm_password_reset_title">Are you sure?</string>
+    <string name="confirm_password_reset">Resetting your password will sign you out.</string>
+    <string name="found_driver_title">Found a driver!</string>
+    <string name="found_driver_text">guhyuck!</string>
+</resources>
